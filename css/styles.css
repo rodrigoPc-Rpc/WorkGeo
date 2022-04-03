@@ -1,0 +1,8 @@
+.food {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.t1 {
+    height: 210px;
+}
